@@ -1,0 +1,9 @@
+{
+  "error": {
+    "status": "401",
+    "title": "Firebase Auth Failure",
+    "detail": "Invalid credentials"
+  }
+}
+
+}

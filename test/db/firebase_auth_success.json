@@ -1,0 +1,9 @@
+{
+  "meta":{
+    "success":{
+      "title":"Firebase Auth success",
+      "message":"Congrats you are Successfully login.",
+      "status":"200"
+    }
+  }
+}
